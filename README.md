@@ -5,7 +5,8 @@ A collection of hands-on Natural Language Processing (NLP) projects, experiments
 This repository showcases my journey through text preprocessing, classical machine learning, deep learning, and modern NLP techniques used in real-world applications.
 
 🚀 What’s Inside
-🔹 1. Text Preprocessing
+
+Text Preprocessing
 
 Tokenization (word & sentence)
 
